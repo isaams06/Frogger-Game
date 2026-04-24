@@ -1,9 +1,6 @@
 """
 File:    frogger.py
 Author:  Isaam Sayed
-Date:    22 November 2024
-Section: 71
-E-mail:  isaams1@umbc.edu
 Description:
   Program lets use play frogger game, where frog must avoid cars and get to the other side
   similar to modern day crossy road.
