@@ -4,8 +4,6 @@
 This project is a implementation of a Frogger game written in Python. Player controls a frog that must safely cross a map filled with moving obstacles. 
 The map is loaded from external files, which (I also provided) define the board layout, obstacle speeds, and number of allowed jumps.
 
-## Purpose
-
 
 ## How to Run:
 ```
